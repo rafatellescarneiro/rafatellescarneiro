@@ -17,6 +17,8 @@
 
 [![Skills](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/rafatellescarneiro/vue-project)
 
+[![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rafatellescarneiro/devincar_project)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafatellescarneiro&layout=compact)](https://github.com/rafatellescarneiro/github-readme-stats)
 
