@@ -19,6 +19,7 @@
 
 [![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rafatellescarneiro/devincar_project)
 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)(https://github.com/DEVin-ConectaNuvem/M2P2-DEVinventory-Squad2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafatellescarneiro&layout=compact)](https://github.com/rafatellescarneiro/github-readme-stats)
 
