@@ -7,7 +7,7 @@
 
 -------------------------------
 
-## Redes Sociais:
+## Social network:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-telles-carneiro-b74456148/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafcarneiro_)
 
@@ -27,11 +27,12 @@
 </div>
 
 -------------------------------
-## Cursos:
+## Courses:
+
+<b>Analysis and Systems Development - Instituto de Educação Superior de Brasília - Technologist</b> 
 
 <b>DevInHouse</b> - Fullstack (HTML, CSS, Javascript,
-VueJS, Python, Flask, SQL, noSQL, GIT, Kanban, técnicas
-de DevOps) Em andamento.
+VueJS, Python, Flask, SQL, noSQL, GIT, Kanban, Devops techniques) In progress.
 
 
 
