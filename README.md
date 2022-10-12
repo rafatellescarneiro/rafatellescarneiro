@@ -1,11 +1,8 @@
 # Welcome to my Github's Profile! 😁
 
-
-https://user-images.githubusercontent.com/98103640/195228003-0af72a0f-113e-4779-bb9f-ae4b09b09d86.mp4
-
+https://user-images.githubusercontent.com/98103640/195229960-40480dd8-eb7e-4a8c-8c8b-a282f93993ee.mp4
 
 ### Full Stack developer in progress 🚀
-
 
 [![Rafael Github Status](https://github-readme-stats.vercel.app/api?username=rafatellescarneiro&theme=dracula&show_icons=true)](https://github.com/rafatellescarneiro/github-readme-stats)
 
