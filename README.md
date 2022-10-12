@@ -37,6 +37,10 @@ https://user-images.githubusercontent.com/98103640/195229960-40480dd8-eb7e-4a8c-
 <b>DevInHouse</b> - Fullstack (HTML, CSS, Javascript,
 VueJS, Python, Flask, SQL, noSQL, GIT, Kanban, Devops techniques) In progress.
 
+## Codewars 
+
+![CODEWARS](https://www.codewars.com/users/rafatellescarneiro/completed)
+
 ![GIF](https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e474vzr09dut7n0xcbvfojaki0ypueetj2e8oiva26u&rid=giphy.gif&ct=s&align=center)
 
 
