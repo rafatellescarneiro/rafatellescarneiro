@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/98103640/195229960-40480dd8-eb7e-4a8c-
 ## Social network:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-telles-carneiro-b74456148/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafcarneiro_)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
 -------------------------------
 
@@ -36,10 +37,6 @@ https://user-images.githubusercontent.com/98103640/195229960-40480dd8-eb7e-4a8c-
 
 <b>DevInHouse</b> - Fullstack (HTML, CSS, Javascript,
 VueJS, Python, Flask, SQL, noSQL, GIT, Kanban, Devops techniques) In progress.
-
-## Codewars 
-
-![CODEWARS](https://www.codewars.com/users/rafatellescarneiro/completed)
 
 ![GIF](https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e474vzr09dut7n0xcbvfojaki0ypueetj2e8oiva26u&rid=giphy.gif&ct=s&align=center)
 
